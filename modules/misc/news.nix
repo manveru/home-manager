@@ -573,6 +573,13 @@ in
           A new module is available: 'programs.pidgin'
         '';
       }
+
+      {
+        time = "2018-02-18T10:04:26+00:00";
+        message = ''
+          A new module is available: 'programs.fzf'.
+        '';
+      }
     ];
   };
 }
